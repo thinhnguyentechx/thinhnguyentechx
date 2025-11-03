@@ -1,6 +1,6 @@
 <header>
-   <img width="100%" height="200px" object-fit="cover" src="https://i.pinimg.com/originals/c2/39/78/c239781a884d363b6ee17280606b671f.gif">
-   <!-- <img src="https://github.com/thinhsuy/thinhsuy/assets/81562297/eab80de7-aff2-4ae3-aaec-3a8db962cdb8" alt="Image Header" style="width: 100vw; height: auto; object-fit: cover;"> -->
+   <!-- <img width="100%" height="200px" object-fit="cover" src="https://i.pinimg.com/originals/c2/39/78/c239781a884d363b6ee17280606b671f.gif"> -->
+   <img src="https://github.com/thinhsuy/thinhsuy/assets/81562297/eab80de7-aff2-4ae3-aaec-3a8db962cdb8" alt="Image Header" style="width: 100vw; height: auto; object-fit: cover;">
 
 </header>
 
